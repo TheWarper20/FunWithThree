@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  margin: 0;
+}
+
+#app {
+  height: 100vh;
+  overflow: hidden;
+}
